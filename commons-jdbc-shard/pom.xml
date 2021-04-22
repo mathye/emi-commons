@@ -20,7 +20,7 @@
 
         <!-- 外部引用 -->
         <commons-lang3-version>3.9</commons-lang3-version>
-        <mybatis-version>3.4.6</mybatis-version>
+        <mybatis-version>3.5.6</mybatis-version>
         <spring-context-version>4.3.21.RELEASE</spring-context-version>
         <slf4j-api-version>1.7.26</slf4j-api-version>
     </properties>
